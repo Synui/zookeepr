@@ -117,6 +117,25 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Henry",
+      "species": "Baboon",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "Zelda",
+      "species": "Kangaroo",
+      "diet": "folivore",
+      "personalityTraits": [
+        "anxious",
+        "loving"
+      ],
+      "id": "13"
     }
   ]
 }
